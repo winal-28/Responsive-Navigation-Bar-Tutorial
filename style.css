@@ -54,6 +54,8 @@ nav {
     display: none;
   }
   .nav-links-show {
+    position: absolute;
+    top: 9vh;
     display: flex;
     flex-direction: column;
     padding-bottom: 10px;
